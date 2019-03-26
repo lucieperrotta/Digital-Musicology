@@ -1,0 +1,1301 @@
+id,chart_date,target_rank,actual_rank,title,artist,peak_rank,weeks_on_chart
+1,7/11/1987,82,,,,,
+2,8/4/1973,14,,,,,
+3,7/3/1961,56,57,I Don't Mind,James Brown,47,8
+4,8/7/1971,32,31,You've Got A Friend,"Roberta Flack,Donny Hathaway",29,12
+5,7/10/1976,51,,,,,
+6,8/2/1980,15,16,The Rose,Bette Midler,3,25
+7,10/7/1972,37,,,,,
+8,4/13/1963,67,,,,,
+9,5/25/1991,48,,,,,
+10,3/24/1984,49,51,An Innocent Man,Billy Joel,10,18
+11,1/25/1960,97,,,,,
+12,11/15/1980,65,63,Lookin' For Love,Johnny Lee,5,21
+13,8/18/1973,14,,,,,
+14,1/4/1969,56,,,,,
+15,8/7/1976,21,21,Last Child,Aerosmith,21,15
+16,7/28/1984,37,39,She Bop,Cyndi Lauper,3,18
+17,2/28/1981,91,,,,,
+18,1/31/1981,56,55,Kiss On My List,Daryl Hall & John Oates,1,23
+19,10/9/1976,88,87,Here's Some Love,Tanya Tucker,82,5
+20,3/6/1976,66,,,,,
+21,8/2/1980,91,90,Just Can't Wait,The J. Geils Band,78,5
+22,11/20/1971,18,19,Never My Love,The 5th Dimension,12,11
+23,12/7/1985,88,87,And She Was,Talking Heads,54,20
+24,8/26/1978,20,,,,,
+25,7/17/1971,38,36,Chicago,Graham Nash,35,11
+26,5/7/1966,88,86,Sweet Talkin' Guy,The Chiffons,10,10
+27,7/7/1979,41,41,Rock 'N' Roll Fantasy,Bad Company,13,20
+28,9/15/1962,94,,,,,
+29,11/10/1973,44,46,The Joker,Steve Miller Band,1,20
+30,12/5/1970,18,18,Indiana Wants Me,R. Dean Taylor,5,15
+31,12/4/1971,93,,,,,
+32,4/5/1975,15,,,,,
+33,2/11/1978,99,100,Crazy On You,Heart,35,19
+34,3/4/1978,30,29,If I Can't Have You,Yvonne Elliman,1,22
+35,5/1/1971,67,65,Freedom,Jimi Hendrix,59,8
+36,5/17/1969,61,,,,,
+37,4/13/1968,67,65,Foggy Mountain Breakdown,Flatt & Scruggs,55,12
+38,9/11/1971,73,,,,,
+39,9/14/1974,17,17,It's Only Rock 'N Roll (But I Like It),The Rolling Stones,16,10
+40,6/9/1990,30,28,The Power,Snap,2,22
+41,11/6/1971,28,27,Absolutely Right,Five Man Electrical Band,26,8
+42,9/21/1963,94,,,,,
+43,2/25/1989,50,48,Two Hearts,Phil Collins,1,18
+44,4/6/1985,25,24,Some Like It Hot,The Power Station,6,18
+45,1/19/1974,93,,,,,
+46,7/1/1972,12,12,I'll Take You There,The Staple Singers,1,15
+47,1/16/1965,87,,,,,
+48,4/26/1980,19,,,,,
+49,8/8/1964,36,36,People,Barbra Streisand,5,19
+50,7/11/1964,23,24,Love Me Do,The Beatles,1,14
+51,3/8/1980,66,66,Carrie,Cliff Richard,34,11
+52,1/2/1965,86,,,,,
+53,6/30/1973,80,81,Over The Hills And Far Away,Led Zeppelin,51,8
+54,9/5/1964,71,73,Last Kiss,J. Frank Wilson & The Cavaliers,2,20
+55,3/7/1987,56,56,Smoking Gun,The Robert Cray Band,22,14
+56,6/19/1965,72,74,I Love You So,Bobbi Martin,70,7
+57,2/18/1984,81,,,,,
+58,5/20/1972,87,,,,,
+59,10/11/1969,33,33,Is That All There Is,Peggy Lee,11,10
+60,3/7/1960,67,,,,,
+61,11/16/1968,95,96,I Put A Spell On You,Creedence Clearwater Revival,58,9
+62,9/28/1985,90,89,Hurts To Be In Love,Gino Vannelli,57,12
+63,1/15/1972,68,,,,,
+64,8/26/1967,54,53,Cry Softly Lonely One,Roy Orbison,52,6
+65,4/11/1960,11,,,,,
+66,6/18/1988,57,58,Do You Love Me,The Contours,3,34
+67,6/16/1962,99,97,Bongo Stomp,Little Joey & The Flips,35,8
+68,8/17/1985,98,99,Black Cars,Gino Vannelli,42,16
+69,6/29/1959,20,,,,,
+70,11/15/1969,12,12,Hot Fun In The Summertime,Sly & The Family Stone,2,16
+71,9/30/1978,43,43,Paradise By The Dashboard Light,Meat Loaf,39,10
+72,9/6/1969,5,5,Get Together,The Youngbloods,5,25
+73,6/12/1976,49,49,Crazy On You,Heart,35,19
+74,3/27/1965,14,12,Nowhere To Run,Martha & The Vandellas,8,11
+75,1/29/1977,56,54,Drivin' Wheel,Foghat,34,10
+76,10/13/1984,79,,,,,
+77,8/19/1978,27,28,Reminiscing,Little River Band,3,20
+78,12/24/1988,46,46,Dial My Heart,The Boys,13,19
+79,7/29/1967,56,58,Cold Sweat - Part 1,James Brown,7,12
+80,6/5/1961,38,,,,,
+81,8/23/1986,69,69,You Can Call Me Al,Paul Simon,23,29
+82,4/10/1961,65,,,,,
+83,4/7/1984,33,34,Red Red Wine,UB40,1,40
+84,12/15/1979,57,,,,,
+85,8/22/1987,12,10,I Just Can't Stop Loving You,Michael Jackson With Siedah Garrett,1,12
+86,4/21/1973,22,21,Space Oddity,David Bowie,15,14
+87,9/16/1972,68,,,,,
+88,4/22/1967,57,57,Buy For Me The Rain,Nitty Gritty Dirt Band,45,7
+89,8/15/1981,25,24,Fire And Ice,Pat Benatar,17,15
+90,11/22/1975,86,,,,,
+91,8/20/1983,41,42,TRUE,Spandau Ballet,4,18
+92,11/6/1982,59,60,Shock The Monkey,Peter Gabriel,29,18
+93,12/12/1987,67,,,,,
+94,6/19/1971,83,85,Wild Horses,The Rolling Stones,28,8
+95,12/4/1976,65,65,Drivin' Wheel,Foghat,34,10
+96,10/24/1964,73,,,,,
+97,8/10/1991,14,14,Motownphilly,Boyz II Men,3,24
+98,11/7/1981,84,,,,,
+99,1/31/1987,88,86,A Trick Of The Night,Bananarama,76,7
+100,11/27/1971,11,11,Maggie May,Rod Stewart,1,17
+101,3/8/1980,85,85,A Lesson In Leavin',Dottie West,73,5
+102,9/26/1970,65,66,For The Good Times,Ray Price,11,24
+103,2/16/1959,11,,,,,
+104,6/18/1983,23,22,We Two,Little River Band,22,12
+105,3/8/1980,60,62,The Spirit Of Radio,Rush,51,8
+106,6/5/1971,18,18,If,Bread,4,12
+107,10/26/1974,9,8,Sweet Home Alabama,Lynyrd Skynyrd,8,17
+108,11/25/1967,21,,,,,
+109,1/24/1970,83,83,Ma Belle Amie,The Tee Set,5,12
+110,3/15/1980,72,,,,,
+111,6/4/1966,33,32,Eight Miles High,The Byrds,14,9
+112,1/27/1962,27,27,Letter Full Of Tears,Gladys Knight & The Pips,19,11
+113,10/20/1984,76,,,,,
+114,3/30/1968,60,60,Sunshine Of Your Love,Cream,5,26
+115,12/29/1958,52,52,Sweet Little Rock And Roll,Chuck Berry,47,9
+116,12/2/1972,48,48,Let It Rain,Eric Clapton,48,13
+117,2/19/1966,41,,,,,
+118,5/10/1969,77,,,,,
+119,11/28/1970,61,61,Stand By Me,"David Ruffin,Jimmy Ruffin",61,7
+120,9/28/1963,1,3,Be My Baby,The Ronettes,2,13
+121,9/12/1970,67,,,,,
+122,2/21/1987,75,74,Have You Ever Loved Somebody,Freddie Jackson,69,9
+123,12/19/1960,64,64,Silent Night,Bing Crosby,54,2
+124,12/23/1978,14,13,Promises,Eric Clapton,9,18
+125,10/7/1972,76,,,,,
+126,11/1/1975,28,29,Blue Eyes Crying In The Rain,Willie Nelson,21,18
+127,8/25/1962,44,44,Stop The Wedding,Etta James,34,8
+128,9/30/1972,32,33,Brandy (You're A Fine Girl),Looking Glass,1,16
+129,5/24/1975,58,,,,,
+130,6/24/1972,24,24,Tumbling Dice,The Rolling Stones,7,10
+131,10/31/1981,76,75,I Wouldn't Have Missed It For The World,Ronnie Milsap,20,17
+132,4/29/1978,72,,,,,
+133,7/20/1963,24,24,Detroit City,Bobby Bare,16,12
+134,1/7/1967,49,47,I Had Too Much To Dream (Last Night),The Electric Prunes,11,14
+135,7/13/1985,94,,,,,
+136,8/15/1964,76,,,,,
+137,9/14/1991,76,,,,,
+138,7/13/1963,78,,,,,
+139,9/29/1990,79,79,The Way You Do The Things You Do,UB40,6,25
+140,6/29/1974,43,41,La Grange,ZZ Top,41,19
+141,12/4/1982,39,39,Shock The Monkey,Peter Gabriel,29,18
+142,1/17/1970,96,,,,,
+143,10/12/1963,77,,,,,
+144,7/24/1976,74,,,,,
+145,12/18/1961,22,20,Runaround Sue,Dion,1,14
+146,5/10/1975,82,,,,,
+147,2/6/1961,32,32,Wheels,The String-A-Longs,3,16
+148,3/27/1982,30,31,Spirits In The Material World,The Police,11,13
+149,7/21/1979,38,38,Just When I Needed You Most,Randy Vanwarmer,4,20
+150,9/29/1984,7,6,What's Love Got To Do With It,Tina Turner,1,28
+151,2/3/1990,80,,,,,
+152,6/21/1986,76,,,,,
+153,5/1/1961,52,50,Walk Right Back,The Everly Brothers,7,13
+154,2/9/1980,62,63,Lonely Eyes,Robert John,41,11
+155,4/20/1985,28,27,Forever Man,Eric Clapton,26,12
+156,5/1/1965,61,,,,,
+157,8/24/1959,8,8,Sleep Walk,Santo & Johnny,1,18
+158,3/22/1986,52,52,Something About You,Level 42,7,27
+159,10/30/1961,35,34,Little Sister,Elvis Presley,5,13
+160,4/20/1963,93,91,If You Need Me,Solomon Burke,37,11
+161,6/8/1974,86,,,,,
+162,1/4/1960,77,79,Sweet Nothin's,Brenda Lee,4,24
+163,6/10/1972,84,,,,,
+164,8/29/1960,24,,,,,
+165,10/3/1964,73,,,,,
+166,2/29/1964,12,,,,,
+167,6/8/1974,38,39,No Charge,Melba Montgomery,39,10
+168,9/16/1967,9,9,San Franciscan Nights,The Animals,9,10
+169,6/19/1961,96,95,Sea Of Heartbreak,Don Gibson,21,14
+170,2/19/1983,19,20,Twilight Zone,Golden Earring,10,27
+171,7/4/1964,77,,,,,
+172,6/29/1963,67,69,If You Need Me,Solomon Burke,37,11
+173,6/3/1972,71,,,,,
+174,5/26/1984,71,,,,,
+175,2/28/1981,66,,,,,
+176,8/8/1970,26,27,25 Or 6 To 4,Chicago,4,20
+177,2/5/1977,74,74,I've Got Love On My Mind,Natalie Cole,5,21
+178,11/26/1983,99,,,,,
+179,9/1/1962,67,66,You Can't Judge A Book By The Cover,Bo Diddley,48,10
+180,7/1/1972,69,68,Beautiful,Gordon Lightfoot,58,11
+181,3/19/1983,80,79,Always Something There To Remind Me,Naked Eyes,8,22
+182,9/21/1974,67,68,Annie's Song,John Denver,1,17
+183,12/15/1979,34,35,Chiquitita,Abba,29,12
+184,4/30/1988,12,11,Always On My Mind,Pet Shop Boys,4,14
+185,10/27/1958,31,29,Just A Dream,Jimmy Clanton,4,18
+186,10/8/1988,67,,,,,
+187,11/5/1977,20,18,Help Is On Its Way,Little River Band,14,22
+188,7/28/1979,7,7,I Want You To Want Me,Cheap Trick,7,19
+189,9/18/1961,87,,,,,
+190,2/8/1975,20,20,Never Can Say Goodbye,Gloria Gaynor,9,17
+191,7/20/1968,66,64,People Got To Be Free,The Rascals,1,14
+192,11/2/1959,30,29,Unforgettable,Dinah Washington,17,13
+193,9/30/1978,96,96,Shadow Dancing,Andy Gibb,1,25
+194,12/21/1974,38,36,Willie And The Hand Jive,Eric Clapton,26,9
+195,7/29/1972,8,7,School's Out,Alice Cooper,7,13
+196,5/12/1962,36,34,Love Me Warm And Tender,Paul Anka,12,12
+197,2/26/1983,81,,,,,
+198,3/16/1985,36,36,Along Comes A Woman,Chicago,14,16
+199,10/11/1980,40,41,Could I Have This Dance,Anne Murray,33,14
+200,3/22/1975,92,,,,,
+201,10/15/1983,58,,,,,
+202,4/21/1973,29,28,Love Train,The O'Jays,1,14
+203,12/6/1969,80,81,"Wonderful World, Beautiful People",Jimmy Cliff,25,11
+204,8/29/1970,35,34,I Want To Take You Higher,Ike & Tina Turner,34,18
+205,1/15/1983,94,93,Pressure,Billy Joel,20,17
+206,3/5/1977,20,20,Maybe I'm Amazed,Paul McCartney,10,13
+207,9/5/1987,36,37,Back In The High Life Again,Steve Winwood,13,21
+208,8/21/1976,65,67,Another Rainy Day In New York City,Chicago,32,9
+209,5/4/1974,99,97,Already Gone,Eagles,32,15
+210,2/20/1971,22,24,She's A Lady,Tom Jones,2,14
+211,3/16/1968,59,,,,,
+212,8/28/1961,41,42,It's Gonna Work Out Fine,Ike & Tina Turner,14,15
+213,12/29/1962,36,36,Comin' Home Baby,Mel Torme,36,11
+214,2/9/1959,94,95,(Night Time Is) The Right Time,Ray Charles,95,1
+215,10/30/1976,12,10,Magic Man,Heart,9,23
+216,4/8/1972,29,30,Do Your Thing,Isaac Hayes,30,11
+217,4/11/1981,60,61,Jessie's Girl,Rick Springfield,1,32
+218,10/9/1976,26,24,Fernando,Abba,13,16
+219,6/13/1981,17,,,,,
+220,11/17/1962,62,61,Ramblin' Rose,"Nat ""King"" Cole",2,16
+221,9/28/1974,39,38,Feel Like Makin' Love,Roberta Flack,1,16
+222,11/10/1973,49,49,For Ol' Times Sake,Elvis Presley,41,9
+223,9/3/1983,89,89,Wanna Be Startin' Somethin',Michael Jackson,5,15
+224,3/15/1969,18,18,Galveston,Glen Campbell,4,12
+225,2/13/1982,76,,,,,
+226,5/12/1962,60,,,,,
+227,11/21/1981,57,55,Promises In The Dark,Pat Benatar,38,11
+228,9/2/1989,96,95,Still Cruisin,The Beach Boys,93,3
+229,7/19/1969,78,79,Honky Tonk Women,The Rolling Stones,1,15
+230,9/10/1977,76,,,,,
+231,7/2/1977,23,24,"Knowing Me, Knowing You",Abba,14,15
+232,6/9/1990,52,,,,,
+233,11/5/1966,13,,,,,
+234,11/20/1971,77,75,Life Is A Carnival,The Band,72,6
+235,12/28/1974,65,65,Back Home Again,John Denver,5,16
+236,5/23/1987,95,95,"Tonight, Tonight, Tonight",Genesis,3,15
+237,7/27/1985,54,,,,,
+238,1/5/1980,95,97,You Decorated My Life,Kenny Rogers,7,18
+239,6/7/1975,77,79,Sail On Sailor,The Beach Boys,49,17
+240,1/14/1978,14,16,Just The Way You Are,Billy Joel,3,27
+241,12/29/1962,40,38,White Christmas,Bing Crosby,12,13
+242,2/16/1991,50,49,Because I Love You (The Postman Song),Stevie B,1,23
+243,4/24/1961,69,,,,,
+244,11/12/1966,17,16,"Have You Seen Your Mother, Baby, Standing In The Shadow?",The Rolling Stones,9,7
+245,3/18/1978,66,68,It Amazes Me,John Denver,59,7
+246,10/11/1975,14,15,Rhinestone Cowboy,Glen Campbell,1,23
+247,1/5/1974,94,93,Last Kiss,J. Frank Wilson & The Cavaliers,2,20
+248,11/13/1971,42,42,I'd Love To Change The World,Ten Years After,40,12
+249,5/19/1979,32,30,Old Time Rock & Roll,Bob Seger,28,18
+250,2/8/1960,6,5,Handy Man,Jimmy Jones,2,18
+251,12/27/1969,97,95,Theme From Electric Surfboard,Brother Jack McDuff,95,2
+252,10/3/1970,96,,,,,
+253,12/22/1962,10,10,Love Came To Me,Dion,10,11
+254,3/22/1986,12,14,Sanctify Yourself,Simple Minds,14,14
+255,7/18/1981,77,,,,,
+256,11/3/1973,95,93,Smokin' In The Boy's Room,Brownsville Station,3,19
+257,11/16/1968,38,40,Shape Of Things To Come,Max Frost & The Troopers,22,12
+258,8/3/1991,90,88,Don't Treat Me Bad,Firehouse,19,23
+259,7/14/1979,59,60,Born To Be Alive,Patrick Hernandez,16,19
+260,4/17/1971,4,4,She's A Lady,Tom Jones,2,14
+261,11/2/1968,31,30,In-A-Gadda-Da-Vida,Iron Butterfly,30,17
+262,9/18/1961,91,,,,,
+263,3/2/1974,35,34,Last Kiss,Wednesday,34,18
+264,9/16/1967,43,42,Dandelion,The Rolling Stones,14,8
+265,4/29/1972,33,34,(Last Night) I Didn't Get To Sleep At All,The 5th Dimension,8,16
+266,1/6/1973,86,,,,,
+267,3/7/1964,47,47,Worried Guy,Johnny Tillotson,37,7
+268,5/31/1980,90,90,Time For Me To Fly,REO Speedwagon,56,13
+269,7/28/1973,12,13,Money,Pink Floyd,13,15
+270,11/23/1963,44,44,In My Room,The Beach Boys,23,11
+271,3/8/1986,40,38,Addicted To Love,Robert Palmer,1,22
+272,1/25/1960,40,,,,,
+273,11/19/1988,89,,,,,
+274,11/6/1965,68,,,,,
+275,11/21/1981,55,55,Promises In The Dark,Pat Benatar,38,11
+276,10/17/1970,25,24,Patches,Clarence Carter,4,14
+277,10/6/1962,77,,,,,
+278,1/9/1982,19,20,Waiting On A Friend,The Rolling Stones,13,15
+279,6/30/1979,79,78,Born To Be Alive,Patrick Hernandez,16,19
+280,1/7/1967,87,88,It Takes Two,"Marvin Gaye,Kim Weston",14,12
+281,1/30/1988,20,19,There's The Girl,Heart,12,17
+282,10/6/1979,41,39,Gotta Serve Somebody,Bob Dylan,24,12
+283,8/30/1980,57,,,,,
+284,2/5/1966,29,28,These Boots Are Made For Walkin',Nancy Sinatra,1,14
+285,11/1/1986,35,,,,,
+286,2/9/1991,89,,,,,
+287,8/23/1980,73,,,,,
+288,2/15/1964,32,34,As Usual,Brenda Lee,12,11
+289,1/27/1968,84,83,Guitar Man,Elvis Presley,28,20
+290,11/18/1972,51,52,Long Dark Road,The Hollies,26,11
+291,1/21/1978,74,73,The Way You Do The Things You Do,Rita Coolidge,20,11
+292,8/29/1970,10,10,25 Or 6 To 4,Chicago,4,20
+293,12/26/1981,18,20,Every Little Thing She Does Is Magic,The Police,3,19
+294,8/24/1968,78,79,Mr. Bojangles,Jerry Jeff Walker,77,5
+295,4/29/1978,91,92,Just The Way You Are,Billy Joel,3,27
+296,10/4/1975,19,18,Lyin' Eyes,Eagles,2,14
+297,12/18/1971,72,71,That's The Way I Feel About Cha,Bobby Womack,27,13
+298,12/27/1969,64,,,,,
+299,6/16/1973,50,,,,,
+300,9/26/1987,1,2,Here I Go Again,Whitesnake,1,28
+301,2/5/1972,69,,,,,
+302,3/28/1964,80,78,Do You Want To Know A Secret,The Beatles,2,11
+303,8/21/1982,74,74,Break It To Me Gently,Juice Newton,11,17
+304,4/28/1990,24,26,The Humpty Dance,Digital Underground,11,23
+305,8/3/1974,31,,,,,
+306,5/12/1979,4,5,In The Navy,Village People,3,18
+307,3/1/1980,5,7,Cruisin',Smokey Robinson,4,25
+308,7/30/1966,42,43,You Can't Roller Skate In A Buffalo Herd,Roger Miller,40,6
+309,11/3/1984,21,20,All Through The Night,Cyndi Lauper,5,19
+310,1/15/1983,13,14,The Other Guy,Little River Band,11,18
+311,9/30/1989,46,,,,,
+312,4/12/1980,69,69,Daydream Believer,Anne Murray,12,17
+313,2/23/1980,51,,,,,
+314,11/27/1965,8,9,I Got You (I Feel Good),James Brown,3,12
+315,2/16/1974,35,35,Come And Get Your Love,Redbone,5,23
+316,2/6/1988,80,,,,,
+317,11/10/1979,28,29,Dream Police,Cheap Trick,26,10
+318,4/3/1961,12,12,Wheels,The String-A-Longs,3,16
+319,6/26/1976,14,15,I Want You,Marvin Gaye,15,13
+320,1/8/1972,100,98,Floy Joy,The Supremes,16,12
+321,1/5/1963,33,,,,,
+322,12/1/1958,79,78,Bird Dog,The Everly Brothers,2,19
+323,11/17/1979,27,27,Dream Police,Cheap Trick,26,10
+324,7/26/1975,72,73,When Will I Be Loved,Linda Ronstadt,2,19
+325,2/23/1974,85,87,Let Me Get To Know You,Paul Anka,80,8
+326,3/29/1975,58,57,My Boy,Elvis Presley,20,11
+327,7/30/1966,80,,,,,
+328,11/18/1967,63,,,,,
+329,3/7/1987,58,56,Smoking Gun,The Robert Cray Band,22,14
+330,1/21/1967,70,71,Go Where You Wanna Go,The 5th Dimension,16,10
+331,1/19/1974,22,22,Jungle Boogie,Kool & The Gang,4,22
+332,2/27/1982,34,35,Waiting On A Friend,The Rolling Stones,13,15
+333,9/11/1971,53,,,,,
+334,1/28/1984,73,73,Somebody s Watching Me,Rockwell,2,19
+335,11/10/1962,7,9,Do You Love Me,The Contours,3,34
+336,8/13/1977,5,4,(Your Love Has Lifted Me) Higher And Higher,Rita Coolidge,2,27
+337,8/25/1979,34,,,,,
+338,12/26/1981,84,82,Through The Years,Kenny Rogers,13,15
+339,2/16/1991,27,28,Deeper Shade Of Soul,Urban Dance Squad,21,18
+340,8/29/1987,52,,,,,
+341,9/17/1977,17,17,Easy,Commodores,4,22
+342,3/17/1990,37,,,,,
+343,2/13/1971,9,9,If I Were Your Woman,Gladys Knight & The Pips,9,15
+344,4/9/1983,94,,,,,
+345,3/2/1974,25,25,Doo Doo Doo Doo Doo (Heartbreaker),The Rolling Stones,15,11
+346,11/6/1976,76,75,Living It Down,Freddy Fender,72,4
+347,7/23/1977,63,62,Sunflower,Glen Campbell,39,11
+348,11/4/1989,14,15,The Best,Tina Turner,15,14
+349,3/9/1991,85,86,Don t Treat Me Bad,Firehouse,19,23
+350,6/23/1973,61,,,,,
+351,1/25/1975,55,55,Roll On Down The Highway,Bachman-Turner Overdrive,14,11
+352,11/9/1991,31,31,Good Vibrations,Marky Mark,1,19
+353,11/17/1984,27,27,I Can't Drive 55,Sammy Hagar,26,16
+354,4/5/1975,2,2,Philadelphia Freedom,Elton John,1,21
+355,6/20/1964,44,42,"I Rise, I Fall",Johnny Tillotson,36,8
+356,7/3/1961,21,20,Dum Dum,Brenda Lee,4,12
+357,2/28/1987,77,,,,,
+358,2/24/1973,73,73,Superman,Donna Fargo,41,9
+359,2/13/1988,93,92,Just Like Heaven,The Cure,40,19
+360,8/15/1970,38,37,I Want To Take You Higher,Ike & Tina Turner,34,18
+361,1/15/1977,23,25,This Song,George Harrison,25,11
+362,2/9/1974,42,43,Last Kiss,Wednesday,34,18
+363,9/26/1964,98,,,,,
+364,4/4/1970,18,18,Evil Ways,Santana,9,13
+365,4/23/1977,86,,,,,
+366,8/25/1973,9,11,Feelin' Stronger Every Day,Chicago,10,16
+367,8/27/1977,31,31,Undercover Angel,Alan O'Day,1,25
+368,7/12/1986,39,,,,,
+369,1/7/1967,66,66,Kind Of A Drag,The Buckinghams,1,13
+370,10/7/1989,23,24,Kisses On The Wind,Neneh Cherry,8,14
+371,6/29/1963,40,41,Losing You,Brenda Lee,6,13
+372,8/20/1983,95,94,Scarlet Fever,Kenny Rogers,94,2
+373,9/7/1991,29,,,,,
+374,10/16/1971,98,,,,,
+375,4/11/1960,61,,,,,
+376,2/12/1983,30,,,,,
+377,9/22/1973,68,70,I Can't Stand The Rain,Ann Peebles,38,21
+378,4/28/1990,25,26,The Humpty Dance,Digital Underground,11,23
+379,4/10/1961,57,,,,,
+380,6/8/1974,41,42,Best Thing That Ever Happened To Me,Gladys Knight & The Pips,3,17
+381,3/31/1973,63,63,Hocus Pocus,Focus,9,19
+382,6/8/1991,76,76,Where The Streets Have No Name,Pet Shop Boys,72,7
+383,8/13/1966,19,20,Sunshine Superman,Donovan,1,13
+384,8/10/1985,2,3,If You Love Somebody Set Them Free,Sting,3,18
+385,4/14/1990,23,25,Hold On,Wilson Phillips,1,25
+386,12/26/1970,57,56,I Really Don't Want To Know,Elvis Presley,21,9
+387,11/14/1964,18,18,Time Is On My Side,The Rolling Stones,6,13
+388,8/10/1959,96,,,,,
+389,11/17/1984,89,89,Tenderness,General Public,27,18
+390,6/26/1976,38,40,Young Hearts Run Free,Candi Staton,20,16
+391,6/7/1969,19,19,It's Your Thing,The Isley Brothers,2,14
+392,12/24/1977,2,,,,,
+393,7/26/1980,22,22,Misunderstanding,Genesis,14,18
+394,9/14/1974,33,,,,,
+395,4/2/1977,54,54,Here Come Those Tears Again,Jackson Browne,23,9
+396,9/22/1958,32,33,Fever,Peggy Lee,8,16
+397,12/27/1969,47,48,Kozmic Blues,Janis Joplin,41,9
+398,2/23/1959,92,,,,,
+399,1/19/1959,14,13,One Night,Elvis Presley,4,17
+400,1/25/1975,53,54,Woman To Woman,Shirley Brown,22,14
+401,6/22/1985,17,19,The Goonies R Good Enough,Cyndi Lauper,10,15
+402,10/17/1964,4,5,Last Kiss,J. Frank Wilson & The Cavaliers,2,20
+403,5/13/1967,32,32,I Never Loved A Man (The Way I Love You),Aretha Franklin,9,11
+404,12/8/1962,12,11,He's A Rebel,The Crystals,1,18
+405,6/28/1986,33,,,,,
+406,3/8/1975,88,88,Amie,Pure Prairie League,27,13
+407,5/16/1987,71,72,Wild Horses,Gino Vannelli,55,15
+408,12/31/1966,57,,,,,
+409,8/8/1987,19,,,,,
+410,2/20/1961,28,27,Jimmy's Girl,Johnny Tillotson,25,11
+411,6/6/1981,82,,,,,
+412,11/25/1972,78,80,Sunday Morning Sunshine,Harry Chapin,75,6
+413,8/21/1965,51,,,,,
+414,6/1/1991,91,93,Someone,The Rembrandts,78,10
+415,1/24/1976,34,33,Golden Years,David Bowie,10,21
+416,3/2/1968,69,,,,,
+417,12/11/1982,47,47,"(You're So Square) Baby, I Don't Care",Joni Mitchell,47,9
+418,12/23/1967,16,17,Chain Of Fools,Aretha Franklin,2,12
+419,4/7/1979,26,26,Blow Away,George Harrison,16,14
+420,7/14/1962,45,,,,,
+421,4/26/1969,48,46,Pinball Wizard,The Who,19,11
+422,8/9/1969,75,,,,,
+423,11/30/1974,60,,,,,
+424,5/14/1988,28,,,,,
+425,2/2/1963,47,48,See See Rider,LaVern Baker,34,11
+426,11/9/1985,32,32,I m Goin  Down,Bruce Springsteen,9,13
+427,1/11/1969,63,62,Bluebirds Over The Mountain,The Beach Boys,61,6
+428,3/2/1959,24,,,,,
+429,5/29/1971,5,6,Put Your Hand In The Hand,Ocean,2,14
+430,5/12/1984,77,77,I Want A New Drug,Huey Lewis,6,19
+431,2/26/1977,77,,,,,
+432,1/9/1971,65,64,One Bad Apple,The Osmonds,1,15
+433,9/23/1972,47,47,If I Could Reach You,The 5th Dimension,10,15
+434,3/7/1960,15,15,Where Or When,Dion,3,16
+435,10/19/1959,97,,,,,
+436,3/29/1975,76,,,,,
+437,10/29/1966,65,,,,,
+438,8/24/1963,55,,,,,
+439,2/9/1963,6,7,Ruby Baby,Dion,2,13
+440,3/3/1984,48,,,,,
+441,3/19/1966,58,,,,,
+442,12/22/1990,54,52,World In My Eyes,Depeche Mode,52,10
+443,12/5/1981,99,97,Better Things,The Kinks,92,8
+444,1/9/1971,31,29,I Really Don't Want To Know,Elvis Presley,21,9
+445,5/3/1975,43,43,Old Days,Chicago,5,11
+446,12/14/1974,44,42,Back Home Again,John Denver,5,16
+447,9/16/1989,70,,,,,
+448,5/26/1984,22,22,Jump (for My Love),The Pointer Sisters,3,24
+449,8/10/1968,59,,,,,
+450,8/22/1981,6,5,Jessie's Girl,Rick Springfield,1,32
+451,3/11/1989,83,81,Got It Made,"Crosby, Stills, Nash",69,8
+452,7/15/1989,65,64,Don't Say You Love Me,Billy Squier,58,15
+453,4/28/1973,83,,,,,
+454,9/7/1974,10,11,Feel Like Makin' Love,Roberta Flack,1,16
+455,6/9/1962,31,32,Walk On The Wild Side (Part 1),Jimmy Smith,21,11
+456,7/22/1978,94,96,With A Little Luck,Paul McCartney,1,18
+457,6/13/1964,76,78,Not Fade Away,The Rolling Stones,48,13
+458,3/8/1986,37,38,Addicted To Love,Robert Palmer,1,22
+459,2/7/1981,68,,,,,
+460,9/15/1984,84,,,,,
+461,3/30/1963,54,56,On Broadway,The Drifters,9,10
+462,9/7/1963,35,,,,,
+463,8/21/1982,78,78,Seasons Of The Heart,John Denver,78,5
+464,9/15/1984,39,39,Flesh For Fantasy,Billy Idol,29,12
+465,7/11/1987,52,52,Give To Live,Sammy Hagar,23,17
+466,8/15/1987,21,,,,,
+467,5/20/1967,73,73,Little Bit O' Soul,The Music Explosion,2,16
+468,8/20/1966,41,42,Ain't Too Proud To Beg,The Temptations,13,13
+469,7/2/1988,56,56,In Your Soul,Corey Hart,38,10
+470,5/30/1987,48,,,,,
+471,1/4/1964,15,14,As Usual,Brenda Lee,12,11
+472,1/28/1978,43,44,Sweet Music Man,Kenny Rogers,44,8
+473,10/25/1969,13,13,Come Together,The Beatles,1,16
+474,10/18/1969,83,84,Silver Threads And Golden Needles,The Cowsills,74,7
+475,1/5/1980,56,56,Daydream Believer,Anne Murray,12,17
+476,8/24/1991,19,18,I Adore Mi Amor,Color Me Badd,1,20
+477,8/26/1967,18,18,Carrie-Anne,The Hollies,9,13
+478,12/2/1978,65,65,One Last Kiss,The J. Geils Band,35,13
+479,11/21/1964,56,56,Wendy,The Beach Boys,44,6
+480,6/27/1981,49,50,Give It To Me Baby,Rick James,40,14
+481,3/22/1969,17,17,"Baby, Baby Don't Cry",The Miracles,8,14
+482,8/15/1981,62,61,I'm In Love,"Evelyn ""Champagne"" King",40,14
+483,6/16/1973,13,11,Right Place Wrong Time,Dr. John,9,20
+484,7/7/1962,65,65,Heart In Hand,Brenda Lee,15,8
+485,5/7/1977,31,30,Rich Girl,Daryl Hall & John Oates,1,20
+486,3/8/1986,83,,,,,
+487,3/8/1986,48,,,,,
+488,11/20/1965,10,,,,,
+489,12/22/1984,72,,,,,
+490,7/6/1974,51,51,My Thang,James Brown,29,13
+491,1/18/1986,25,,,,,
+492,3/21/1981,14,15,Don't Stand So Close To Me,The Police,10,18
+493,6/16/1984,80,,,,,
+494,10/10/1981,94,96,I Don't Need You,Kenny Rogers,3,18
+495,11/23/1963,59,,,,,
+496,8/4/1962,97,,,,,
+497,8/31/1974,82,81,City In The Sky,The Staple Singers,79,7
+498,4/6/1985,100,,,,,
+499,7/10/1965,69,,,,,
+500,4/27/1959,93,93,The Battle Of New Orleans,Johnny Horton,1,20
+501,7/1/1978,17,17,Last Dance,Donna Summer,3,21
+502,7/3/1965,20,21,I've Been Loving You Too Long (To Stop Now),Otis Redding,21,11
+503,11/9/1991,30,31,Good Vibrations,Marky Mark,1,19
+504,1/19/1974,1,2,The Joker,Steve Miller Band,1,20
+505,5/25/1963,2,,,,,
+506,2/19/1977,33,33,After The Lovin',Engelbert Humperdinck,8,19
+507,1/19/1980,22,22,Still,Commodores,1,20
+508,9/29/1973,58,58,For Ol' Times Sake,Elvis Presley,41,9
+509,4/27/1963,71,,,,,
+510,3/28/1964,96,97,How Blue Can You Get,B.B. King,97,2
+511,6/9/1962,61,61,Oh My Angel,Bertha Tillman,61,9
+512,6/12/1982,67,66,Going To A Go-Go,The Rolling Stones,25,11
+513,11/18/1972,29,,,,,
+514,1/21/1989,19,,,,,
+515,7/3/1961,51,50,Fool That I Am,Etta James,50,6
+516,7/20/1963,31,33,Those Lazy-Hazy-Crazy Days Of Summer,"Nat ""King"" Cole",6,12
+517,5/30/1981,16,16,All Those Years Ago,George Harrison,2,16
+518,10/18/1969,64,64,Suite: Judy Blue Eyes,"Crosby, Stills & Nash",21,12
+519,7/1/1972,61,,,,,
+520,5/5/1973,83,,,,,
+521,8/11/1990,86,85,The Humpty Dance,Digital Underground,11,23
+522,8/21/1976,20,20,Young Hearts Run Free,Candi Staton,20,16
+523,7/8/1972,80,,,,,
+524,5/11/1985,78,80,Private Dancer,Tina Turner,7,18
+525,5/10/1975,44,44,Trampled Under Foot,Led Zeppelin,38,7
+526,10/4/1986,60,62,Love Comes Quickly,Pet Shop Boys,62,8
+527,5/30/1964,72,,,,,
+528,7/5/1969,8,7,Crystal Blue Persuasion,Tommy James,2,15
+529,5/21/1983,93,,,,,
+530,12/22/1990,87,89,This House,Tracie Spencer,3,23
+531,12/14/1985,59,58,Running Up That Hill,Kate Bush,30,20
+532,6/23/1962,94,,,,,
+533,8/28/1961,65,65,"Baby, You're Right",James Brown,49,4
+534,4/24/1965,87,,,,,
+535,5/4/1968,51,,,,,
+536,7/11/1981,40,,,,,
+537,9/19/1970,34,35,Indiana Wants Me,R. Dean Taylor,5,15
+538,9/30/1989,82,,,,,
+539,12/6/1980,48,48,Stop This Game,Cheap Trick,48,12
+540,12/22/1979,93,92,With You I'm Born Again,Billy Preston,4,29
+541,1/17/1970,14,,,,,
+542,10/27/1984,6,6,Wake Me Up Before You Go-Go,Wham!,1,24
+543,12/28/1968,31,30,If I Can Dream,Elvis Presley,12,13
+544,10/23/1965,74,,,,,
+545,10/20/1973,85,85,Redneck Friend,Jackson Browne,85,10
+546,3/12/1977,80,79,Disco Inferno,The Trammps,11,29
+547,9/2/1978,54,54,Almost Like Being In Love,Michael Johnson,32,12
+548,10/3/1987,82,,,,,
+549,4/30/1966,93,92,Double Shot (Of My Baby's Love),Swingin' Medallions,17,13
+550,12/23/1978,69,71,Shake Your Groove Thing,Peaches & Herb,5,22
+551,5/26/1984,44,,,,,
+552,8/4/1979,40,40,Born To Be Alive,Patrick Hernandez,16,19
+553,6/25/1983,49,48,Maniac,Michael Sembello,1,22
+554,1/12/1963,98,100,Walk Right In,The Moments,82,5
+555,8/12/1978,70,69,Surrender,Cheap Trick,62,8
+556,9/1/1979,41,,,,,
+557,10/23/1961,15,,,,,
+558,1/6/1979,73,,,,,
+559,1/27/1979,31,31,Baby I'm Burnin',Dolly Parton,25,14
+560,5/30/1970,4,4,Cecilia,Simon & Garfunkel,4,13
+561,8/16/1980,22,24,Boulevard,Jackson Browne,19,16
+562,7/10/1961,56,54,Fool That I Am,Etta James,50,6
+563,11/9/1968,81,,,,,
+564,5/8/1971,97,,,,,
+565,9/9/1967,87,89,Judy,Elvis Presley,78,5
+566,11/18/1972,57,,,,,
+567,3/4/1989,25,25,The Look,Roxette,1,19
+568,5/19/1979,64,65,Dance Away,Roxy Music,44,9
+569,3/10/1962,33,,,,,
+570,6/15/1963,76,75,Six Days On The Road,Dave Dudley,32,11
+571,5/29/1961,65,65,Quarter To Three,Gary U.S. Bonds,1,15
+572,1/18/1986,39,38,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,13,38
+573,7/19/1975,59,59,"Oh Me, Oh My (Dreams In My Arms)",Al Green,48,6
+574,5/11/1985,34,34,Along Comes A Woman,Chicago,14,16
+575,1/12/1991,65,,,,,
+576,11/9/1968,44,,,,,
+577,10/10/1970,85,84,Let's Work Together,Canned Heat,26,11
+578,1/21/1989,27,27,Giving You The Best That I Got,Anita Baker,3,22
+579,7/31/1965,86,86,Heart Full Of Soul,The Yardbirds,9,12
+580,5/26/1962,75,75,I Found A Love,The Falcons,75,9
+581,10/24/1970,5,,,,,
+582,4/3/1971,52,50,I Don't Blame You At All,The Miracles,18,12
+583,8/7/1961,57,58,Amor,Ben E. King,18,10
+584,1/31/1987,68,,,,,
+585,12/7/1968,30,28,Too Weak To Fight,Clarence Carter,13,15
+586,7/13/1974,92,,,,,
+587,8/14/1965,6,6,Unchained Melody,The Righteous Brothers,4,13
+588,1/14/1978,10,10,We Are The Champions,Queen,4,27
+589,10/9/1982,36,36,Southern Cross,"Crosby, Stills & Nash",18,17
+590,2/7/1987,23,23,Talk To Me,Chico DeBarge,21,20
+591,3/15/1980,99,99,The Long Run,Eagles,8,15
+592,3/4/1989,42,43,All She Wants Is,Duran Duran,22,13
+593,3/15/1980,43,,,,,
+594,10/16/1982,74,73,Situation,Yaz,73,8
+595,8/3/1959,84,,,,,
+596,2/10/1962,19,19,Letter Full Of Tears,Gladys Knight & The Pips,19,11
+597,11/7/1964,31,30,Time Is On My Side,The Rolling Stones,6,13
+598,4/25/1964,34,32,Wish Someone Would Care,Irma Thomas,17,12
+599,7/27/1991,99,99,Hey Stoopid,Alice Cooper,78,5
+600,12/21/1985,54,52,"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")",Baltimora,13,38
+601,9/28/1974,88,90,I Can Help,Billy Swan,1,18
+602,4/6/1991,88,,,,,
+603,8/10/1959,53,55,Sleep Walk,Santo & Johnny,1,18
+604,7/1/1978,41,,,,,
+605,3/28/1970,45,44,The Thrill Is Gone,B.B. King,15,14
+606,12/29/1973,58,57,I Love,Tom T. Hall,12,16
+607,12/21/1974,50,49,Everlasting Love,Carl Carlton,6,15
+608,3/6/1982,18,18,Harden My Heart,Quarterflash,3,24
+609,11/21/1964,66,,,,,
+610,4/8/1978,44,44,Rocket Ride,Kiss,39,10
+611,4/18/1987,38,,,,,
+612,12/19/1970,88,,,,,
+613,2/13/1971,52,,,,,
+614,6/28/1969,59,60,I Want To Take You Higher,Sly & The Family Stone,38,16
+615,9/23/1978,9,9,Hot Child In The City,Nick Gilder,1,31
+616,6/1/1968,2,1,Mrs. Robinson,Simon & Garfunkel,1,13
+617,9/4/1961,31,32,(Marie's the Name) His Latest Flame,Elvis Presley,4,11
+618,7/4/1964,47,46,Everybody Loves Somebody,Dean Martin,1,15
+619,12/23/1967,22,23,If I Could Build My Whole World Around You,"Marvin Gaye,Tammi Terrell",10,11
+620,7/25/1987,82,80,"Twistin  The Night Away (From ""Innerspace"")",Rod Stewart,80,4
+621,8/18/1984,1,1,Ghostbusters,Ray Parker Jr.,1,21
+622,8/16/1980,61,,,,,
+623,9/5/1970,83,82,It's Only Make Believe,Glen Campbell,10,12
+624,7/20/1959,99,,,,,
+625,9/1/1973,29,30,Higher Ground,Stevie Wonder,4,14
+626,8/10/1991,82,,,,,
+627,5/26/1990,91,92,Nick Of Time,Bonnie Raitt,92,3
+628,3/31/1990,44,43,Hold On,Wilson Phillips,1,25
+629,4/2/1983,14,14,Beat It,Michael Jackson,1,25
+630,6/26/1961,68,,,,,
+631,9/4/1971,36,37,If You Really Love Me,Stevie Wonder,8,14
+632,12/2/1967,15,,,,,
+633,3/5/1983,72,71,Maneater,Daryl Hall & John Oates,1,23
+634,4/25/1987,47,48,Brass Monkey,Beastie Boys,48,10
+635,7/4/1964,21,22,The Little Old Lady (From Pasadena),Jan & Dean,3,11
+636,2/5/1977,25,24,After The Lovin',Engelbert Humperdinck,8,19
+637,8/13/1983,22,23,Human Nature,Michael Jackson,7,14
+638,5/4/1963,45,45,Out Of My Mind,Johnny Tillotson,24,10
+639,5/31/1986,91,,,,,
+640,6/9/1973,79,77,Think,James Brown,33,16
+641,7/4/1981,61,,,,,
+642,11/23/1963,68,,,,,
+643,1/28/1967,99,100,The People In Me,The Music Machine,66,8
+644,5/9/1987,80,,,,,
+645,3/23/1968,1,1,(Sittin' On) The Dock Of The Bay,Otis Redding,1,16
+646,1/28/1984,6,,,,,
+647,3/21/1987,85,85,Caught Up In The Rapture,Anita Baker,37,18
+648,2/20/1988,3,2,What Have I Done To Deserve This?,Pet Shop Boys,2,12
+649,11/7/1970,61,61,Stoned Love,The Supremes,7,14
+650,3/28/1964,8,8,"Hello, Dolly!",Louis Armstrong,1,22
+651,1/29/1983,80,78,It's Raining Men,The Weather Girls,46,11
+652,9/19/1964,83,,,,,
+653,9/14/1974,32,,,,,
+654,1/30/1982,75,73,Tainted Love,Soft Cell,8,43
+655,8/28/1976,67,66,Sunrise,Eric Carmen,34,10
+656,8/16/1980,79,79,Years From Now,Dr. Hook,51,9
+657,8/13/1988,89,90,In Your Soul,Corey Hart,38,10
+658,11/14/1964,23,22,Ask Me,Elvis Presley,12,12
+659,2/6/1982,4,4,Harden My Heart,Quarterflash,3,24
+660,1/2/1988,16,18,There's The Girl,Heart,12,17
+661,1/25/1969,47,,,,,
+662,1/29/1972,44,45,Looking For A Love,The J. Geils Band,39,10
+663,8/9/1980,61,62,He's So Shy,Pointer Sisters,3,26
+664,1/22/1972,40,39,Looking For A Love,The J. Geils Band,39,10
+665,11/24/1984,70,,,,,
+666,4/28/1962,76,,,,,
+667,12/16/1989,69,,,,,
+668,2/22/1975,42,41,Big Yellow Taxi,Joni Mitchell,24,16
+669,7/30/1966,43,43,You Can't Roller Skate In A Buffalo Herd,Roger Miller,40,6
+670,6/8/1991,10,12,Silent Lucidity,Queensryche,9,17
+671,11/19/1977,78,80,Heaven's Just A Sin Away,The Kendalls,69,7
+672,5/25/1963,60,59,Baby Workout,Jackie Wilson,5,12
+673,6/19/1971,93,,,,,
+674,12/14/1963,13,13,Sugar Shack,The Fireballs,1,15
+675,11/23/1968,84,85,With A Little Help From My Friends,Joe Cocker,68,6
+676,7/10/1961,49,,,,,
+677,6/5/1971,20,20,Don't Knock My Love - Pt. 1,Wilson Pickett,13,12
+678,10/31/1964,95,95,Chained And Bound,Otis Redding,70,7
+679,12/1/1958,87,,,,,
+680,8/15/1981,51,51,All Those Years Ago,George Harrison,2,16
+681,6/27/1987,38,38,With Or Without You,U2,1,18
+682,8/19/1972,1,2,Brandy (You're A Fine Girl),Looking Glass,1,16
+683,1/16/1982,70,72,That Girl,Stevie Wonder,4,18
+684,8/11/1973,11,11,Feelin' Stronger Every Day,Chicago,10,16
+685,5/11/1991,10,11,Silent Lucidity,Queensryche,9,17
+686,6/20/1960,75,,,,,
+687,1/23/1988,2,2,Need You Tonight,INXS,1,24
+688,8/24/1968,70,72,On The Road Again,Canned Heat,16,11
+689,10/10/1964,82,82,"The Anaheim, Azusa & Cucamonga Sewing Circle, Book Review And Timing Association",Jan & Dean,77,3
+690,7/4/1981,22,23,Queen Of Hearts,Juice Newton,2,27
+691,12/10/1966,52,51,Tell It Like It Is,Aaron Neville,2,14
+692,1/27/1973,75,77,Fever,Rita Coolidge,76,7
+693,8/14/1961,73,,,,,
+694,11/3/1962,12,,,,,
+695,7/26/1980,33,33,Boulevard,Jackson Browne,19,16
+696,6/5/1965,76,78,Too Many Rivers,Brenda Lee,13,13
+697,6/10/1989,91,,,,,
+698,8/17/1985,83,85,People Get Ready,Jeff Beck,48,10
+699,3/10/1979,81,82,Heartaches,Bachman-Turner Overdrive,60,7
+700,11/7/1970,74,72,Does Anybody Really Know What Time It Is?,Chicago,7,13
+701,7/23/1983,54,55,White Wedding,Billy Idol,36,13
+702,8/30/1969,80,,,,,
+703,2/8/1960,25,,,,,
+704,8/8/1960,77,,,,,
+705,8/20/1977,69,67,Baby Don't Change Your Mind,Gladys Knight & The Pips,52,11
+706,12/16/1972,19,20,Living In The Past,Jethro Tull,11,14
+707,3/16/1959,61,60,This Should Go On Forever,Rod Bernard,20,11
+708,4/17/1976,31,29,Sara Smile,Daryl Hall & John Oates,4,28
+709,2/28/1987,56,56,Caught Up In The Rapture,Anita Baker,37,18
+710,3/23/1991,57,,,,,
+711,9/19/1981,37,36,Some Days Are Diamonds (Some Days Are Stone),John Denver,36,20
+712,3/14/1964,10,,,,,
+713,9/18/1971,56,58,Ko-Ko Joe,Jerry Reed,51,6
+714,12/10/1983,80,,,,,
+715,9/10/1966,29,,,,,
+716,7/11/1981,36,35,Lady (You Bring Me Up),Commodores,8,22
+717,9/18/1971,64,,,,,
+718,1/26/1991,2,,,,,
+719,7/28/1984,51,,,,,
+720,12/23/1972,47,46,Rocky Mountain High,John Denver,9,19
+721,12/24/1977,98,100,Help Is On Its Way,Little River Band,14,22
+722,6/23/1962,34,36,Where Are You,Dinah Washington,36,10
+723,3/15/1969,67,67,Maybe Tomorrow,Badfinger,67,6
+724,11/22/1986,91,,,,,
+725,12/12/1970,22,23,For The Good Times,Ray Price,11,24
+726,1/12/1963,81,79,Would It Make Any Difference To You,Etta James,64,7
+727,3/27/1965,2,4,Eight Days A Week,The Beatles,1,10
+728,3/13/1976,55,55,Breaking Up Is Hard To Do,Neil Sedaka,1,25
+729,5/24/1986,42,42,Pretty In Pink,Psychedelic Furs,41,11
+730,9/4/1961,30,32,(Marie's the Name) His Latest Flame,Elvis Presley,4,11
+731,4/16/1977,43,42,Lucille,Kenny Rogers,5,19
+732,12/23/1967,91,,,,,
+733,8/18/1958,16,17,Bird Dog,The Everly Brothers,2,19
+734,11/13/1965,38,39,I Will,Dean Martin,10,10
+735,9/25/1976,16,15,Getaway,"Earth, Wind & Fire",12,19
+736,7/10/1982,13,13,Do I Do,Stevie Wonder,13,14
+737,9/2/1978,52,50,Shadow Dancing,Andy Gibb,1,25
+738,9/28/1963,47,,,,,
+739,10/30/1971,66,,,,,
+740,10/12/1959,48,46,Living Doll,Cliff Richard,30,13
+741,10/1/1983,63,62,Love Is A Battlefield,Pat Benatar,5,22
+742,5/26/1990,52,50,The Power,Snap,2,22
+743,6/16/1979,48,47,One Way Or Another,Blondie,24,14
+744,3/27/1961,67,,,,,
+745,6/18/1977,87,,,,,
+746,12/15/1958,20,18,That Old Black Magic,Louis Prima & Keely Smith,18,13
+747,1/14/1989,52,52,Baby Can I Hold You,Tracy Chapman,48,12
+748,12/25/1965,60,61,Crying Time,Ray Charles,6,15
+749,11/24/1973,39,40,D'yer Mak'er,Led Zeppelin,20,16
+750,3/2/1959,44,,,,,
+751,10/2/1971,86,86,I'd Love To Change The World,Ten Years After,40,12
+752,12/25/1971,58,57,Levon,Elton John,24,10
+753,5/17/1975,47,,,,,
+754,10/18/1986,97,,,,,
+755,11/24/1973,49,51,Smokin' In The Boy's Room,Brownsville Station,3,19
+756,1/20/1962,89,,,,,
+757,11/24/1990,70,71,World In My Eyes,Depeche Mode,52,10
+758,8/10/1974,45,45,Come Monday,Jimmy Buffett,30,14
+759,3/30/1968,76,74,Foggy Mountain Breakdown,Flatt & Scruggs,55,12
+760,8/12/1972,79,,,,,
+761,7/9/1977,62,63,Walk Right In,Dr. Hook,46,10
+762,12/8/1973,62,64,Walk Like A Man,Grand Funk Railroad,19,12
+763,4/20/1974,95,,,,,
+764,2/3/1962,34,,,,,
+765,2/1/1969,33,33,Too Weak To Fight,Clarence Carter,13,15
+766,12/5/1964,11,12,Ask Me,Elvis Presley,12,12
+767,8/3/1974,4,5,The Night Chicago Died,Paper Lace,1,17
+768,3/6/1982,6,5,That Girl,Stevie Wonder,4,18
+769,11/10/1984,14,12,All Through The Night,Cyndi Lauper,5,19
+770,3/15/1969,85,84,Hair,The Cowsills,2,15
+771,8/10/1963,44,,,,,
+772,8/23/1986,39,39,Press,Paul McCartney,21,11
+773,10/19/1959,33,33,I Want To Walk You Home,Fats Domino,8,13
+774,11/17/1958,56,,,,,
+775,8/17/1991,69,69,Walking In Memphis,Marc Cohn,13,23
+776,4/20/1985,16,14,Along Comes A Woman,Chicago,14,16
+777,10/30/1965,15,14,Rescue Me,Fontella Bass,4,13
+778,9/4/1976,42,,,,,
+779,3/2/1974,50,51,A Very Special Love Song,Charlie Rich,11,14
+780,10/24/1964,64,65,Time Is On My Side,The Rolling Stones,6,13
+781,4/6/1963,36,37,On Broadway,The Drifters,9,10
+782,2/23/1991,63,65,Because I Love You (The Postman Song),Stevie B,1,23
+783,12/2/1978,26,28,Hot Child In The City,Nick Gilder,1,31
+784,10/27/1984,88,,,,,
+785,3/5/1966,92,90,(You're My) Soul And Inspiration,The Righteous Brothers,1,13
+786,8/2/1980,86,,,,,
+787,9/1/1958,58,58,The Ways Of A Woman In Love,Johnny Cash,24,11
+788,12/31/1960,2,3,Last Date,Floyd Cramer,2,20
+789,4/28/1962,40,40,Hey! Baby,Bruce Channel,1,14
+790,6/16/1962,21,21,Everybody Loves Me But You,Brenda Lee,6,11
+791,3/5/1988,12,11,"Hungry Eyes (From ""Dirty Dancing"")",Eric Carmen,4,24
+792,6/1/1959,38,40,Almost Grown,Chuck Berry,32,12
+793,1/21/1978,64,65,My Way,Elvis Presley,22,12
+794,1/12/1985,90,88,Catch My Fall,Billy Idol,50,11
+795,5/15/1976,35,35,I Want You,Marvin Gaye,15,13
+796,11/23/1974,29,27,"You're The First, The Last, My Everything",Barry White,2,15
+797,6/25/1977,51,51,I Don't Love You Anymore,Teddy Pendergrass,41,14
+798,9/19/1981,39,39,Straight From The Heart,The Allman Brothers Band,39,11
+799,6/29/1963,79,,,,,
+800,8/7/1976,71,73,Magic Man,Heart,9,23
+801,9/27/1986,35,,,,,
+802,9/20/1980,87,86,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon Jennings,21,23
+803,9/13/1986,38,40,True Colors,Cyndi Lauper,1,20
+804,1/6/1979,16,15,September,"Earth, Wind & Fire",8,17
+805,9/15/1958,6,5,Just A Dream,Jimmy Clanton,4,18
+806,11/26/1977,7,7,We're All Alone,Rita Coolidge,7,20
+807,12/2/1978,63,64,You Took The Words Right Out Of My Mouth,Meat Loaf,39,13
+808,11/9/1959,62,,,,,
+809,11/3/1984,87,88,On The Wings Of A Nightingale,Everly Brothers,50,12
+810,9/15/1990,3,5,Unskinny Bop,Poison,3,19
+811,8/30/1980,97,98,Let's Get Serious,Jermaine Jackson,9,23
+812,12/19/1981,74,72,Super Freak (Part I),Rick James,16,24
+813,4/22/1967,32,33,California Nights,Lesley Gore,16,14
+814,3/21/1960,67,67,Big Iron,Marty Robbins,26,10
+815,3/10/1990,77,,,,,
+816,3/14/1960,18,17,Where Or When,Dion,3,16
+817,9/1/1958,90,,,,,
+818,11/10/1984,8,8,Blue Jean,David Bowie,8,18
+819,8/7/1971,10,10,Mercy Mercy Me (The Ecology),Marvin Gaye,4,12
+820,10/9/1965,82,,,,,
+821,12/30/1989,7,8,Just Like Jesse James,Cher,8,18
+822,2/9/1959,14,12,I Cried A Tear,LaVern Baker,6,21
+823,2/25/1978,77,79,Lovely Day,Bill Withers,30,12
+824,3/27/1976,31,29,50 Ways To Leave Your Lover,Paul Simon,1,17
+825,7/1/1989,17,,,,,
+826,11/2/1968,87,,,,,
+827,2/10/1990,28,29,Just A Friend,Biz Markie,9,22
+828,7/20/1968,46,47,Journey To The Center Of The Mind,The Amboy Dukes,16,12
+829,9/8/1990,50,,,,,
+830,10/24/1981,11,11,Tryin' To Live My Life Without You,Bob Seger,5,19
+831,3/8/1980,48,48,Sexy Eyes,Dr. Hook,5,21
+832,1/23/1982,32,30,Through The Years,Kenny Rogers,13,15
+833,8/9/1986,83,83,You Can Call Me Al,Paul Simon,23,29
+834,7/12/1969,4,3,Good Morning Starshine,Oliver,3,13
+835,8/26/1989,81,,,,,
+836,4/3/1961,86,,,,,
+837,9/13/1986,37,35,Sweet Love,Anita Baker,8,22
+838,8/18/1962,77,79,Surfin' Safari,The Beach Boys,14,17
+839,7/19/1975,23,23,When Will I Be Loved,Linda Ronstadt,2,19
+840,4/20/1963,94,,,,,
+841,10/5/1968,22,23,Born To Be Wild,Steppenwolf,2,13
+842,11/3/1973,38,40,Goodbye Yellow Brick Road,Elton John,2,17
+843,11/11/1989,45,47,If I Could Turn Back Time,Cher,3,23
+844,8/20/1983,53,54,Burning Down The House,Talking Heads,9,20
+845,1/23/1988,3,4,Got My Mind Set On You,George Harrison,1,22
+846,6/2/1979,48,49,Dance Away,Roxy Music,44,9
+847,11/11/1972,55,55,Sweet Surrender,Bread,15,11
+848,10/9/1965,18,18,"Liar, Liar",The Castaways,12,14
+849,7/9/1988,28,28,Do You Love Me,The Contours,3,34
+850,4/28/1984,64,62,Jump (for My Love),The Pointer Sisters,3,24
+851,10/8/1977,91,,,,,
+852,5/3/1969,82,80,Bad Moon Rising,Creedence Clearwater Revival,2,14
+853,2/15/1964,56,54,I Saw Her Standing There,The Beatles,14,11
+854,10/18/1969,43,,,,,
+855,2/7/1987,26,,,,,
+856,7/20/1991,67,67,I Like The Way (The Kissing Game),Hi-Five,1,23
+857,9/12/1970,34,32,Get Up (I Feel Like Being Like A) Sex Machine (Part 1),James Brown,15,9
+858,10/25/1986,99,,,,,
+859,9/13/1980,42,43,Make A Little Magic,Nitty Gritty Dirt Band,25,16
+860,1/3/1976,91,,,,,
+861,11/27/1982,68,67,You've Got Another Thing Comin',Judas Priest,67,7
+862,3/7/1960,87,,,,,
+863,2/6/1961,33,32,Wheels,The String-A-Longs,3,16
+864,5/30/1981,48,48,Elvira,Oak Ridge Boys,5,22
+865,3/20/1982,24,24,Don't Talk To Strangers,Rick Springfield,2,21
+866,11/16/1968,68,,,,,
+867,8/19/1967,58,,,,,
+868,6/12/1976,27,,,,,
+869,1/3/1970,52,,,,,
+870,11/30/1985,66,65,And She Was,Talking Heads,54,20
+871,10/13/1958,28,,,,,
+872,11/22/1975,28,28,Secret Love,Freddy Fender,20,11
+873,8/24/1959,26,25,The Battle Of New Orleans,Johnny Horton,1,20
+874,2/24/1973,71,73,Superman,Donna Fargo,41,9
+875,2/5/1977,39,39,She Thinks I Still Care,Elvis Presley,31,13
+876,2/13/1971,71,,,,,
+877,4/12/1986,62,,,,,
+878,11/26/1966,49,,,,,
+879,8/2/1986,56,55,Walk This Way,Run-D.M.C.,4,16
+880,2/21/1976,91,,,,,
+881,4/4/1981,11,12,Don't Stand So Close To Me,The Police,10,18
+882,3/17/1984,4,3,Somebody's Watching Me,Rockwell,2,19
+883,11/26/1988,14,,,,,
+884,5/20/1989,89,89,One,Metallica,35,15
+885,10/6/1990,60,61,The Way You Do The Things You Do,UB40,6,25
+886,8/25/1984,69,71,Dance Hall Days,Wang Chung,16,22
+887,9/9/1989,99,99,Me Myself And I,De La Soul,34,17
+888,8/6/1977,67,67,Baby Don't Change Your Mind,Gladys Knight & The Pips,52,11
+889,10/15/1988,7,7,Don't You Know What The Night Can Do?,Steve Winwood,6,17
+890,7/16/1966,29,31,Let's Go Get Stoned,Ray Charles,31,9
+891,4/22/1967,82,83,Happy Jack,The Who,24,9
+892,8/4/1962,99,,,,,
+893,7/25/1970,24,25,War,Edwin Starr,1,15
+894,7/4/1981,91,91,On And On And On,Abba,90,6
+895,5/11/1974,77,78,A Dream Goes On Forever,Todd Rundgren,69,6
+896,3/11/1967,25,27,California Nights,Lesley Gore,16,14
+897,8/16/1986,95,,,,,
+898,4/25/1981,11,11,I Can't Stand It,Eric Clapton,10,17
+899,5/24/1980,71,,,,,
+900,2/24/1968,4,4,I Wish It Would Rain,The Temptations,4,14
+901,2/13/1971,68,67,Country Road,James Taylor,37,8
+902,9/21/1974,73,72,"Honey, Honey",Abba,27,10
+903,9/28/1963,3,3,Be My Baby,The Ronettes,2,13
+904,4/23/1966,60,61,Till The End Of The Day,The Kinks,50,8
+905,8/15/1970,35,33,Teach Your Children,"Crosby, Stills & Nash",16,11
+906,7/4/1970,45,,,,,
+907,4/4/1964,22,,,,,
+908,2/10/1968,79,,,,,
+909,8/19/1989,32,32,Kisses On The Wind,Neneh Cherry,8,14
+910,7/5/1980,85,86,Time For Me To Fly,REO Speedwagon,56,13
+911,5/26/1990,4,4,Hold On,Wilson Phillips,1,25
+912,3/17/1973,57,,,,,
+913,4/22/1989,8,8,Girl You Know It's True,Milli Vanilli,2,26
+914,1/15/1977,96,97,If Not You,Dr. Hook,55,11
+915,9/9/1972,63,63,Sweet Caroline (Good Times Never Seemed So Good),Bobby Womack,51,9
+916,12/23/1978,13,13,Promises,Eric Clapton,9,18
+917,1/5/1974,62,60,Love Song,Anne Murray,12,17
+918,9/15/1984,47,,,,,
+919,8/19/1989,87,,,,,
+920,9/25/1982,23,23,Hot In The City,Billy Idol,23,27
+921,3/10/1979,86,,,,,
+922,3/14/1987,48,,,,,
+923,9/16/1967,89,88,Judy,Elvis Presley,78,5
+924,8/3/1985,49,,,,,
+925,10/23/1976,26,25,The Best Disco In Town,The Ritchie Family,17,20
+926,11/7/1960,44,44,Perfidia,The Ventures,15,13
+927,9/6/1969,54,53,"Out Of Sight, Out Of Mind",Little Anthony & The Imperials,52,9
+928,5/25/1968,13,12,Mony Mony,Tommy James,3,17
+929,5/23/1987,64,65,Dirty Water,Rock And Hyde,61,10
+930,2/21/1976,52,,,,,
+931,4/17/1976,77,,,,,
+932,5/8/1971,44,45,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,3,18
+933,6/29/1968,54,53,Eleanor Rigby,Ray Charles,35,10
+934,7/3/1982,61,,,,,
+935,4/20/1968,1,3,Cry Like A Baby,The Box Tops,2,15
+936,10/18/1986,87,,,,,
+937,3/16/1963,17,,,,,
+938,7/5/1980,19,,,,,
+939,1/26/1991,8,,,,,
+940,8/3/1974,3,3,Feel Like Makin' Love,Roberta Flack,1,16
+941,8/16/1986,93,91,Like A Rock,Bob Seger,12,13
+942,4/3/1971,91,,,,,
+943,10/5/1968,50,49,I Found A True Love,Wilson Pickett,42,7
+944,5/17/1980,37,36,Starting Over Again,Dolly Parton,36,10
+945,7/24/1971,41,39,Riders On The Storm,The Doors,14,12
+946,1/20/1968,7,8,I Second That Emotion,The Miracles,4,15
+947,9/16/1967,65,65,Fakin' It,Simon & Garfunkel,23,8
+948,3/17/1962,25,24,The Twist,Chubby Checker,1,38
+949,12/18/1982,42,,,,,
+950,12/11/1971,8,8,All I Ever Need Is You,Sonny & Cher,7,15
+951,11/26/1983,53,,,,,
+952,3/31/1979,66,65,Feelin' Satisfied,Boston,46,7
+953,9/13/1975,92,,,,,
+954,2/2/1959,20,19,I Cried A Tear,LaVern Baker,6,21
+955,4/21/1979,60,,,,,
+956,7/31/1982,33,35,Eye In The Sky,The Alan Parsons Project,3,25
+957,9/21/1974,83,,,,,
+958,7/29/1978,3,3,Miss You,The Rolling Stones,1,20
+959,4/25/1964,52,,,,,
+960,6/22/1991,66,,,,,
+961,5/6/1978,32,30,Take A Chance On Me,Abba,3,18
+962,10/19/1974,11,,,,,
+963,5/16/1981,82,84,The Stroke,Billy Squier,17,20
+964,1/7/1967,63,65,Hello Hello,"The Sopwith ""Camel""",26,10
+965,3/25/1967,45,45,Sweet Soul Music,Arthur Conley,2,15
+966,8/7/1965,74,,,,,
+967,11/6/1976,65,67,Breezin',George Benson,63,6
+968,10/29/1966,29,31,Coming On Strong,Brenda Lee,11,13
+969,10/18/1980,58,57,Don't Ask Me Why,Billy Joel,19,15
+970,12/10/1983,92,94,Modern Love,David Bowie,14,13
+971,10/19/1968,78,,,,,
+972,10/19/1963,78,,,,,
+973,4/30/1983,81,83,Little Too Late,Pat Benatar,20,14
+974,9/17/1988,57,58,"Kokomo (From The ""Cocktail"" Soundtrack)",The Beach Boys,1,28
+975,2/2/1963,40,,,,,
+976,7/16/1966,6,,,,,
+977,1/31/1970,17,,,,,
+978,3/6/1971,84,82,The Look Of Love,Isaac Hayes,79,5
+979,4/28/1984,99,97,Karma Chameleon,Culture Club,1,22
+980,2/19/1977,74,,,,,
+981,11/1/1986,97,99,Venus,Bananarama,1,19
+982,11/2/1991,88,88,Unforgettable,Natalie Cole,14,17
+983,11/30/1963,47,,,,,
+984,7/6/1963,4,4,Hello Stranger,Barbara Lewis,3,14
+985,8/10/1974,68,69,Dancing Machine,The Jacksons,2,22
+986,1/22/1977,3,3,You Make Me Feel Like Dancing,Leo Sayer,1,21
+987,12/9/1978,87,88,Baby I'm Burnin',Dolly Parton,25,14
+988,6/5/1971,17,18,If,Bread,4,12
+989,10/27/1979,51,,,,,
+990,5/28/1966,36,36,Shapes Of Things,The Yardbirds,11,11
+991,12/7/1974,79,78,The Bitch Is Back,Elton John,4,14
+992,5/18/1985,22,24,Nightshift,Commodores,3,22
+993,1/16/1971,27,25,There Goes My Everything,Elvis Presley,21,9
+994,1/11/1986,77,,,,,
+995,11/27/1982,3,2,Gloria,Laura Branigan,2,36
+996,8/22/1970,35,35,I Want To Take You Higher,Ike & Tina Turner,34,18
+997,1/25/1964,75,,,,,
+998,10/9/1971,18,,,,,
+999,4/21/1973,38,39,Hocus Pocus,Focus,9,19
+1000,4/5/1986,35,,,,,
+1001,11/11/1967,14,,,,,
+1002,3/20/1982,19,18,Freeze-Frame,The J. Geils Band,4,16
+1003,1/28/1978,3,1,Baby Come Back,Player,1,32
+1004,8/24/1985,36,,,,,
+1005,4/17/1961,73,,,,,
+1006,6/26/1961,34,35,Three Hearts In A Tangle,Roy Drusky,35,16
+1007,10/20/1990,25,25,Unchained Melody,Righteous Brothers,13,44
+1008,1/11/1964,70,,,,,
+1009,9/6/1975,93,95,The Millionaire,Dr. Hook,95,5
+1010,9/13/1975,39,,,,,
+1011,7/29/1989,46,44,I Drove All Night,Cyndi Lauper,6,15
+1012,2/23/1991,14,13,All This Time,Sting,5,15
+1013,2/11/1984,45,44,Time Will Reveal,Debarge,18,18
+1014,7/24/1976,47,47,Play That Funky Music,Wild Cherry,1,25
+1015,8/14/1961,16,,,,,
+1016,4/16/1977,54,53,Disco Inferno,The Trammps,11,29
+1017,7/19/1986,30,,,,,
+1018,7/10/1965,85,83,In The Midnight Hour,Wilson Pickett,21,12
+1019,12/16/1989,35,36,The Arms Of Orion,Prince (With Sheena Easton),36,14
+1020,5/26/1973,64,65,Hey You! Get Off My Mountain,The Dramatics,43,12
+1021,7/1/1967,60,60,Soul Dance Number Three,Wilson Pickett,55,5
+1022,9/9/1978,90,92,Surrender,Cheap Trick,62,8
+1023,11/28/1981,30,,,,,
+1024,5/16/1960,93,93,Baby What You Want Me To Do,Jimmy Reed,37,14
+1025,8/11/1973,64,64,Over The Hills And Far Away,Led Zeppelin,51,8
+1026,9/8/1962,52,,,,,
+1027,2/16/1985,70,72,Lucky,Greg Kihn,30,12
+1028,5/11/1968,49,,,,,
+1029,11/9/1991,69,,,,,
+1030,11/15/1980,88,,,,,
+1031,9/7/1985,1,3,We Don't Need Another Hero (Thunderdome),Tina Turner,2,18
+1032,4/7/1973,50,52,Down And Out In New York City,James Brown,50,7
+1033,11/18/1967,92,94,Goin' Back,The Byrds,89,3
+1034,2/10/1973,93,91,Sugar Magnolia,Grateful Dead,91,2
+1035,11/20/1971,30,,,,,
+1036,3/11/1989,39,,,,,
+1037,12/4/1961,44,44,Town Without Pity,Gene Pitney,13,16
+1038,2/13/1982,80,,,,,
+1039,9/2/1989,13,12,Girl I m Gonna Miss You,Milli Vanilli,1,21
+1040,5/20/1978,24,24,Lay Down Sally,Eric Clapton,3,23
+1041,6/9/1962,6,6,It Keeps Right On A-Hurtin',Johnny Tillotson,3,12
+1042,1/22/1972,75,75,Oh Me Oh My (I'm A Fool For You Baby),Aretha Franklin,73,4
+1043,9/10/1983,46,45,Is There Something I Should Know,Duran Duran,4,17
+1044,1/7/1967,23,23,I've Passed This Way Before,Jimmy Ruffin,17,11
+1045,4/15/1978,18,16,Count On Me,Jefferson Starship,8,14
+1046,2/3/1962,92,94,Jamie,Eddie Holland,30,11
+1047,12/17/1988,86,,,,,
+1048,12/14/1968,22,23,Hooked On A Feeling,B.J. Thomas,5,16
+1049,10/5/1963,41,,,,,
+1050,7/5/1975,12,,,,,
+1051,1/9/1982,46,46,My Kinda Lover,Billy Squier,45,10
+1052,7/5/1980,93,94,Another Brick In The Wall (Part II),Pink Floyd,1,25
+1053,3/8/1980,22,24,Heartbreaker,Pat Benatar,23,18
+1054,12/14/1968,66,65,I Walk Alone,Marty Robbins,65,8
+1055,9/21/1959,50,49,My Wish Came True,Elvis Presley,12,11
+1056,9/8/1979,3,3,After The Love Has Gone,"Earth, Wind & Fire",2,17
+1057,1/26/1963,96,,,,,
+1058,8/21/1971,24,23,Ain't No Sunshine,Bill Withers,3,16
+1059,10/20/1962,86,86,I've Been Everywhere,Hank Snow,68,8
+1060,7/25/1960,44,,,,,
+1061,2/22/1975,4,2,Best Of My Love,Eagles,1,19
+1062,6/28/1986,14,15,Tuff Enuff,The Fabulous Thunderbirds,10,19
+1063,6/8/1963,40,39,This Little Girl,Dion,21,8
+1064,9/22/1979,5,6,Sad Eyes,Robert John,1,27
+1065,10/20/1962,67,,,,,
+1066,12/14/1985,44,44,My Hometown,Bruce Springsteen,6,15
+1067,11/30/1985,75,76,Hurts To Be In Love,Gino Vannelli,57,12
+1068,12/7/1974,35,34,Never Can Say Goodbye,Gloria Gaynor,9,17
+1069,12/7/1974,24,24,Must Of Got Lost,The J. Geils Band,12,11
+1070,2/3/1979,37,37,Every Time I Think Of You,The Babys,13,16
+1071,8/6/1977,44,43,Rock And Roll Never Forgets,Bob Seger,41,8
+1072,11/16/1959,17,17,Be My Guest,Fats Domino,8,14
+1073,8/7/1976,42,42,Devil Woman,Cliff Richard,6,22
+1074,6/28/1986,45,,,,,
+1075,8/6/1966,100,,,,,
+1076,9/2/1978,91,93,Can We Still Be Friends,Todd Rundgren,29,15
+1077,3/4/1978,89,,,,,
+1078,11/25/1978,41,41,There'll Never Be,Switch,36,13
+1079,7/8/1972,47,,,,,
+1080,10/21/1972,50,,,,,
+1081,7/20/1963,63,,,,,
+1082,7/17/1982,19,18,Take Me Down,Alabama,18,13
+1083,6/21/1986,78,,,,,
+1084,12/15/1984,11,10,All Through The Night,Cyndi Lauper,5,19
+1085,6/6/1970,9,9,Make Me Smile,Chicago,9,14
+1086,5/28/1977,65,64,Don't Leave Me This Way,Thelma Houston,1,24
+1087,10/23/1965,72,71,There But For Fortune,Joan Baez,50,7
+1088,10/7/1989,76,,,,,
+1089,12/12/1987,89,90,Who Will You Run To,Heart,7,22
+1090,6/19/1982,89,,,,,
+1091,9/29/1962,44,44,He's A Rebel,The Crystals,1,18
+1092,3/19/1988,68,,,,,
+1093,11/30/1974,1,1,I Can Help,Billy Swan,1,18
+1094,11/20/1961,91,92,There's No Other (Like My Baby),The Crystals,20,9
+1095,7/9/1977,91,,,,,
+1096,1/31/1970,56,56,Look-Ka Py Py,The Meters,56,10
+1097,7/28/1979,32,31,After The Love Has Gone,"Earth, Wind & Fire",2,17
+1098,3/9/1985,17,15,Private Dancer,Tina Turner,7,18
+1099,6/16/1962,46,46,Where Are You,Dinah Washington,36,10
+1100,12/23/1967,24,23,If I Could Build My Whole World Around You,"Marvin Gaye,Tammi Terrell",10,11
+1101,4/28/1962,70,71,(I was) Born To Cry,Dion,42,7
+1102,11/27/1982,13,12,Rock This Town,Stray Cats,9,21
+1103,3/24/1962,31,32,The Twist,Chubby Checker,1,38
+1104,3/7/1987,33,32,What You Get Is What You See,Tina Turner,13,14
+1105,9/15/1973,62,,,,,
+1106,4/7/1990,76,74,Bust A Move,Young MC,7,39
+1107,12/11/1976,49,49,"Ob-La-Di, Ob-La-Da",The Beatles,49,7
+1108,1/5/1963,99,,,,,
+1109,9/10/1988,56,58,It Takes Two,Rob Base,36,16
+1110,12/9/1972,79,77,Reelin' & Rockin',Chuck Berry,27,13
+1111,8/17/1963,99,98,Land Of 1000 Dances,Chris Kenner,77,7
+1112,12/6/1980,33,33,Never Knew Love Like This Before,Stephanie Mills,6,25
+1113,7/11/1960,66,65,Lonely Weekends,Charlie Rich,22,21
+1114,1/11/1969,3,3,Wichita Lineman,Glen Campbell,3,15
+1115,10/6/1979,57,,,,,
+1116,4/10/1961,30,31,Ebony Eyes,The Everly Brothers,8,12
+1117,12/9/1967,49,47,If I Could Build My Whole World Around You,"Marvin Gaye,Tammi Terrell",10,11
+1118,10/10/1964,47,45,Funny Girl,Barbra Streisand,44,9
+1119,4/20/1985,96,94,Will The Wolf Survive,Los Lobos,78,5
+1120,5/9/1960,42,43,Big Iron,Marty Robbins,26,10
+1121,11/26/1966,18,17,A Hazy Shade Of Winter,Simon & Garfunkel,13,9
+1122,9/8/1990,64,,,,,
+1123,6/27/1960,34,34,Lonely Weekends,Charlie Rich,22,21
+1124,12/6/1975,52,52,Carry Me,"David Crosby,Graham Nash",52,6
+1125,9/18/1965,25,26,Treat Her Right,Roy Head,2,11
+1126,7/26/1986,3,3,Invisible Touch,Genesis,1,17
+1127,2/13/1971,12,13,One Less Bell To Answer,The 5th Dimension,2,19
+1128,12/25/1976,35,,,,,
+1129,12/17/1988,26,,,,,
+1130,1/19/1980,43,,,,,
+1131,9/9/1967,24,,,,,
+1132,7/6/1963,11,12,Those Lazy-Hazy-Crazy Days Of Summer,"Nat ""King"" Cole",6,12
+1133,3/8/1980,15,15,Cruisin',Smokey Robinson,4,25
+1134,8/14/1961,51,51,Mighty Good Lovin',The Miracles,51,6
+1135,9/25/1971,40,41,Loving Her Was Easier (Than Anything I'll Ever Do Again),Kris Kristofferson,26,13
+1136,9/20/1969,8,7,Get Together,The Youngbloods,5,25
+1137,3/30/1991,48,,,,,
+1138,12/18/1976,43,42,Torn Between Two Lovers,Mary MacGregor,1,22
+1139,10/11/1975,71,70,Are You Sure Hank Done It This Way,Waylon Jennings,60,9
+1140,2/3/1990,100,100,Oh Father,Madonna,20,13
+1141,12/7/1963,26,26,Talk Back Trembling Lips,Johnny Tillotson,7,13
+1142,9/19/1964,12,12,A Hard Day's Night,The Beatles,1,13
+1143,3/21/1981,9,9,I Love A Rainy Night,Eddie Rabbitt,1,28
+1144,9/30/1989,38,,,,,
+1145,11/16/1991,74,74,Tell Me What You Want Me To Do,Tevin Campbell,6,25
+1146,11/16/1968,10,9,"Abraham, Martin And John",Dion,4,14
+1147,4/15/1972,10,10,A Cowboys Work Is Never Done,Sonny & Cher,8,13
+1148,1/28/1989,84,85,I Don't Want Your Love,Duran Duran,4,16
+1149,8/18/1958,99,100,Going To Chicago Blues,Count Basie,100,1
+1150,1/29/1983,84,85,Rock This Town,Stray Cats,9,21
+1151,3/26/1966,9,8,(You're My) Soul And Inspiration,The Righteous Brothers,1,13
+1152,1/19/1963,36,37,Love Came To Me,Dion,10,11
+1153,12/11/1965,27,26,The Sounds Of Silence,Simon & Garfunkel,1,14
+1154,5/28/1966,99,99,Think Of Me,Buck Owens,74,5
+1155,3/18/1978,27,25,Running On Empty,Jackson Browne,11,17
+1156,9/17/1966,75,,,,,
+1157,10/22/1977,95,95,Easy,Commodores,4,22
+1158,4/7/1990,81,,,,,
+1159,6/12/1976,64,,,,,
+1160,8/24/1959,54,55,I Got Stripes,Johnny Cash,43,11
+1161,3/27/1982,34,34,Daddy's Home,Cliff Richard,23,13
+1162,12/1/1979,29,28,Cruisin',Smokey Robinson,4,25
+1163,4/14/1973,73,73,My Love,Paul McCartney,1,18
+1164,6/19/1976,87,88,Ten Percent,Double Exposure,54,9
+1165,10/11/1969,83,,,,,
+1166,2/2/1959,21,19,I Cried A Tear,LaVern Baker,6,21
+1167,4/7/1984,61,61,Rebel Yell,Billy Idol,46,14
+1168,7/24/1976,75,77,Ode To Billie Joe,Bobbie Gentry,1,20
+1169,8/24/1991,26,26,"Right Here, Right Now",Jesus Jones,2,25
+1170,5/25/1968,32,33,Summertime Blues,Blue Cheer,14,13
+1171,3/19/1977,4,4,Night Moves,Bob Seger,4,21
+1172,10/5/1985,31,,,,,
+1173,7/26/1986,58,59,Live To Tell,Madonna,1,18
+1174,2/25/1978,19,20,Happy Anniversary,Little River Band,16,18
+1175,8/18/1990,9,,,,,
+1176,8/15/1960,67,,,,,
+1177,7/5/1980,6,6,Against The Wind,Bob Seger,5,17
+1178,11/29/1969,49,51,I Want You Back,The Jacksons,1,19
+1179,6/15/1968,81,,,,,
+1180,3/27/1971,66,68,Lucky Man,"Emerson, Lake & Palmer",48,19
+1181,6/4/1966,14,14,Kicks,Paul Revere & The Raiders,4,14
+1182,7/22/1967,70,70,My World Fell Down,Sagittarius,70,5
+1183,4/27/1985,65,64,Private Dancer,Tina Turner,7,18
+1184,1/8/1977,91,,,,,
+1185,2/4/1989,70,,,,,
+1186,1/4/1969,54,53,"Baby, Baby Don't Cry",The Miracles,8,14
+1187,12/8/1984,47,,,,,
+1188,4/23/1988,11,11,Man In The Mirror,Michael Jackson,1,16
+1189,12/12/1960,75,,,,,
+1190,1/24/1976,54,53,Only Sixteen,Dr. Hook,6,22
+1191,5/6/1972,43,,,,,
+1192,2/18/1967,24,26,Standing In The Shadows Of Love,Four Tops,6,10
+1193,12/12/1964,30,29,She's A Woman,The Beatles,4,9
+1194,10/23/1971,40,42,The Year That Clayton Delaney Died,Tom T. Hall,42,12
+1195,1/12/1991,20,,,,,
+1196,4/6/1985,12,,,,,
+1197,11/19/1983,50,48,I Won't Stand In Your Way,Stray Cats,35,12
+1198,3/4/1972,21,,,,,
+1199,10/5/1963,12,,,,,
+1200,10/29/1977,78,76,Echoes Of Love,The Doobie Brothers,66,7
+1201,9/2/1978,1,2,Three Times A Lady,Commodores,1,20
+1202,11/13/1961,50,,,,,
+1203,7/31/1982,96,95,Island Of Lost Souls,Blondie,37,10
+1204,12/22/1979,75,76,Heartbreaker,Pat Benatar,23,18
+1205,7/26/1975,58,,,,,
+1206,4/5/1975,89,,,,,
+1207,3/11/1978,76,,,,,
+1208,3/19/1983,52,50,Even Now,Bob Seger,12,12
+1209,6/21/1986,87,,,,,
+1210,4/21/1962,86,86,Lovers Who Wander,Dion,3,12
+1211,3/7/1964,14,13,You Don't Own Me,Lesley Gore,2,13
+1212,9/18/1965,23,22,Baby Don't Go,Sonny & Cher,8,12
+1213,3/20/1965,40,39,I Don't Want To Spoil The Party,The Beatles,39,6
+1214,5/1/1961,60,,,,,
+1215,3/20/1965,79,,,,,
+1216,4/30/1988,6,,,,,
+1217,9/23/1978,99,98,Last Dance,Donna Summer,3,21
+1218,6/30/1973,20,20,Behind Closed Doors,Charlie Rich,15,19
+1219,7/2/1966,74,,,,,
+1220,6/6/1970,6,6,Get Ready,Rare Earth,4,20
+1221,12/2/1967,83,82,I'm In Love,Wilson Pickett,45,10
+1222,3/15/1980,58,59,Carrie,Cliff Richard,34,11
+1223,7/23/1983,28,29,I'll Tumble 4 Ya,Culture Club,9,16
+1224,10/6/1958,79,,,,,
+1225,1/23/1965,84,85,I've Got A Tiger By The Tail,Buck Owens,25,9
+1226,2/18/1989,21,22,All She Wants Is,Duran Duran,22,13
+1227,9/5/1970,5,6,25 Or 6 To 4,Chicago,4,20
+1228,12/13/1975,5,5,Saturday Night,Bay City Rollers,1,17
+1229,6/19/1971,68,67,You've Got A Friend,"Roberta Flack,Donny Hathaway",29,12
+1230,8/10/1985,86,,,,,
+1231,6/28/1975,55,,,,,
+1232,11/3/1979,29,28,Heaven Must Have Sent You,Bonnie Pointer,11,23
+1233,4/17/1971,84,,,,,
+1234,12/13/1986,24,24,Amanda,Boston,1,18
+1235,9/22/1973,81,81,For Ol' Times Sake,Elvis Presley,41,9
+1236,11/10/1958,24,,,,,
+1237,7/5/1986,34,34,Something About You,Level 42,7,27
+1238,6/22/1985,82,,,,,
+1239,1/9/1961,6,5,Will You Love Me Tomorrow,The Shirelles,1,19
+1240,11/18/1978,17,17,Alive Again,Chicago,14,13
+1241,3/16/1963,94,,,,,
+1242,5/20/1978,77,75,Last Dance,Donna Summer,3,21
+1243,1/4/1960,95,,,,,
+1244,10/30/1965,33,32,Help!,The Beatles,1,13
+1245,10/20/1973,10,10,Paper Roses,Marie Osmond,5,16
+1246,5/22/1982,88,86,Happy Man,Greg Kihn Band,62,7
+1247,10/31/1964,40,40,20-75,Willie Mitchell,31,10
+1248,6/30/1962,10,12,That's Old Fashioned (That's The Way Love Should Be),The Everly Brothers,9,9
+1249,9/25/1976,20,21,Rock'n Me,Steve Miller Band,1,18
+1250,7/16/1977,83,85,Baby Don't Change Your Mind,Gladys Knight & The Pips,52,11
+1251,4/27/1968,73,,,,,
+1252,8/18/1990,81,,,,,
+1253,10/20/1962,15,15,All Alone Am I,Brenda Lee,3,15
+1254,10/22/1977,77,,,,,
+1255,10/17/1964,1,,,,,
+1256,2/20/1982,26,26,Abacab,Genesis,26,14
+1257,1/18/1975,81,80,Lovin' You,Minnie Riperton,1,18
+1258,12/27/1980,3,4,Lady,Kenny Rogers,1,25
+1259,3/23/1968,99,,,,,
+1260,9/14/1991,61,62,"Right Here, Right Now",Jesus Jones,2,25
+1261,9/26/1970,38,38,El Condor Pasa,Simon & Garfunkel,18,11
+1262,5/10/1969,75,,,,,
+1263,4/4/1960,79,80,Baby What You Want Me To Do,Jimmy Reed,37,14
+1264,11/3/1973,8,,,,,
+1265,10/1/1966,51,51,If I Were A Carpenter,Bobby Darin,8,11
+1266,10/4/1969,7,6,Honky Tonk Women,The Rolling Stones,1,15
+1267,2/23/1974,43,42,"Rock And Roll, Hoochie Koo",Rick Derringer,23,14
+1268,3/17/1973,96,97,Frankenstein,Edgar Winter,1,20
+1269,11/17/1984,36,35,Who Wears These Shoes?,Elton John,16,14
+1270,4/28/1990,78,77,Lambada,Kaoma,46,12
+1271,7/5/1980,3,3,The Rose,Bette Midler,3,25
+1272,12/12/1964,25,25,Sidewalk Surfin',Jan & Dean,25,8
+1273,11/10/1979,48,47,We Don't Talk Anymore,Cliff Richard,7,20
+1274,10/6/1984,5,5,She Bop,Cyndi Lauper,3,18
+1275,9/14/1963,11,,,,,
+1276,5/27/1989,21,22,Baby Don't Forget My Number,Milli Vanilli,1,21
+1277,5/24/1986,37,36,American Storm,Bob Seger,13,14
+1278,2/23/1963,46,,,,,
+1279,1/14/1984,26,26,Let The Music Play,Shannon,8,24
+1280,6/12/1971,8,8,Treat Her Like A Lady,Cornelius Brothers & Sister Rose,3,18
+1281,7/30/1988,30,29,When It's Love,Van Halen,29,2
+1282,2/5/1977,49,49,Crackerbox Palace,George Harrison,19,11
+1283,2/11/1967,17,18,Standing In The Shadows Of Love,Four Tops,6,10
+1284,1/20/1979,85,,,,,
+1285,12/20/1980,68,68,Upside Down,Diana Ross,1,29
+1286,4/25/1981,31,30,Sukiyaki,A Taste Of Honey,3,24
+1287,8/24/1959,69,70,Johnny Reb,Johnny Horton,54,8
+1288,9/6/1986,48,,,,,
+1289,7/27/1991,80,80,There She Goes,The La's,49,10
+1290,4/22/1967,2,2,Happy Together,The Turtles,1,15
+1291,7/24/1982,86,,,,,
+1292,3/9/1963,17,19,He's So Fine,The Chiffons,1,15
+1293,2/2/1991,95,,,,,
+1294,3/10/1979,93,,,,,
+1295,3/20/1982,84,,,,,
+1296,7/2/1983,34,36,White Wedding,Billy Idol,36,13
+1297,3/13/1961,7,9,Ebony Eyes,The Everly Brothers,8,12
+1298,2/20/1988,52,,,,,
+1299,5/31/1969,100,,,,,
+1300,6/29/1991,84,83,Where The Streets Have No Name,Pet Shop Boys,72,7
